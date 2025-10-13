@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# LeetCode dsa Solutions
 
 A collection of my personal solutions to various LeetCode problems, implemented primarily in Python. This repository serves as a personal log of my journey in learning data structures and algorithms, documenting my approach and analysis for each problem I've solved.
 
